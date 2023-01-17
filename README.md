@@ -1,6 +1,6 @@
 ### Olá! eu sou o Telmo 👋
 
-- 👨‍🎓 Futuro desenvolvedor front-end.
+- 👨‍🎓 Loading Dev...
 
 <div align="center">
   <a href="https://github.com/TelmoHenrique">
